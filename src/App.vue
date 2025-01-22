@@ -25,7 +25,7 @@ const CustomApiFieldName = {
 const Multiselectable = {
   enabled: true,
   text:'Превышено максимально допустимое значение выбранных данных',
-  value:6
+  value:1
 }
 </script>
 
